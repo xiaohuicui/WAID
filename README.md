@@ -1,3 +1,3 @@
 # WAID
 Wildlife Aerial Images from Drone
-“本论文正在投稿中，待录用后即刻发布全部数据集”。
+The manuscript has been submitted to Applied Science for review and is currently undergoing major revision. The data set will be made available to the public after publication.
