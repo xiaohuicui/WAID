@@ -1,2 +1,3 @@
 # WAID(Wildlife Aerial Images from Drone)
-The manuscript has been submitted to Applied Science for review and is currently undergoing major revision. The data set will be made available to the public after publication.
+Official release of "WAID: A Large-Scale Dataset for Wildlife Detection with Drones"
+The dataset published at the [Applied Sciences](https://www.mdpi.com/2076-3417/13/18/10397)
